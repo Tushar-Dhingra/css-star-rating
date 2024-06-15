@@ -1,0 +1,24 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tushar Dhingra",
+  "license": "Apache-2.0",
+  "description": "An npm package for star-rating button. ",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tushar-Dhingra/css-star-rating.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tushar-Dhingra/css-star-rating/issues"
+  },
+  "homepage": "https://github.com/Tushar-Dhingra/css-star-rating#readme",
+  "dependencies": {
+    "gulp": "^5.0.0"
+  }
+}
